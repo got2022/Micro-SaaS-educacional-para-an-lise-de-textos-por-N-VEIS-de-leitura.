@@ -1,2 +1,2 @@
-# Mentor-de-Gêneros-Textuais.
-Micro SaaS educacional para análise de textos por níveis de leitura.
+# Mentor-de-Generos-Textuais.
+Micro SaaS educacional para analise de textos por niveis de leitura.
